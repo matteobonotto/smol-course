@@ -1,0 +1,48 @@
+{
+  "os": "Linux-6.8.0-1020-gcp-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-01-22T16:58:38.334747Z",
+  "program": "/home/matte/smol-course/2_preference_alignment/notebooks/dpo_finetuning_example.ipynb",
+  "codePath": "2_preference_alignment/notebooks/dpo_finetuning_example.ipynb",
+  "git": {
+    "remote": "git@github.com:matteobonotto/smol-course.git",
+    "commit": "ddcdc5331abb76106cc137d097d52b9fa2a09732"
+  },
+  "email": "matteob.90@hotmail.it",
+  "root": "/home/matte/smol-course/2_preference_alignment/notebooks",
+  "host": "n1-gpu-2xt4-mbonotto",
+  "executable": "/home/matte/smol-course/.venv/bin/python",
+  "codePathLocal": "dpo_finetuning_example.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "Tesla T4",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "520120602624",
+      "used": "343571148800"
+    }
+  },
+  "memory": {
+    "total": "50513305600"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing"
+    },
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.4"
+}
